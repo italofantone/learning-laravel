@@ -7,10 +7,6 @@ También puedes mejorar tus habilidades técnicas a través de clases en video _
 
 🔥🔥🔥
 
-## Índice
+## Controllers
 
-- [Routing](#routing)
-
-## Routing
-
-☝️ [Índice](#índice) 
+- Single action controllers
